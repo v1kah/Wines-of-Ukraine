@@ -251,7 +251,7 @@ html {
 /* DISCOVER SECTION */
 .discover {
   position: relative;
-  background-image: url("fieldPhoto.png");
+  background-image: url("./png/fieldPhoto.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -489,7 +489,7 @@ html {
 
 /* PRICES SECTION */
 .prices-section {
-  background-image: url('BGGrape.png');
+  background-image: url('./png/BGGrape.png');
   background-size: cover;      
   background-position: center; 
   background-repeat: no-repeat;
