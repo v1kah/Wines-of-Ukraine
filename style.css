@@ -622,21 +622,19 @@ html {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 80px;
+  margin-bottom: 80px; 
 }
 
 .contact-section h2 {
-  font-size: 32px;
-  color: #520409;
-  margin-bottom: 20px;
-}
-
-.contact-title::before,
-.contact-title::after {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background-color: #520409;
+  background-color: #7A821C;   
+  color: #fff;                 
+  padding: 15px 40px;
+  border-radius: 12px;   
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;      
+  margin-bottom: 35px;
 }
 
 .contact-form {
